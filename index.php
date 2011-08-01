@@ -47,8 +47,8 @@ $uri = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
 </noscript>
 
 <div class="slider-wrap">
-  <div id="slider1" class="csw">
-    <div class="panelContainer">
+<div id="slider1" class="csw">
+<div class="panelContainer">
 
 <div class="panel">
   <div class="wrapper">
@@ -139,21 +139,27 @@ $uri = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
   </div>
 </div>
 
-    </div><!-- .panelContainer -->
-    <p class="footer">
-      w3c valid <a href="http://validator.w3.org/check?uri=<?php print $uri; ?>"
-                   class="footer">html5</a> /
-      <a href="http://jigsaw.w3.org/css-validator/validator?uri=<?php print $uri; ?>"
-         class="footer">css</a>
-      <br/>
-      &copy; 2008 - <?php print date("Y"); ?> ben carlsson<br/>
-      props to niall doherty's
-      <a href="http://www.ndoherty.biz/tag/coda-slider/" class="footer">
-        coda-slider
-      </a>
-      <br/>
-    </p>
-  </div><!-- #slider1 -->
+</div><!-- .panelContainer -->
+
+<p class="footer">
+  w3c valid <a href="http://validator.w3.org/check?uri=<?php print $uri; ?>"
+               class="footer">html5</a> /
+	<a href="http://jigsaw.w3.org/css-validator/validator?uri=<?php print $uri; ?>"
+		 class="footer">css</a>
+	<br/>
+
+  &copy; 2008 - <?php print date("Y"); ?> ben carlsson /
+  <a href="http://github.com/skoh-fley/portfolio/" class="footer">source</a>
+  <br/>
+
+	props to niall doherty's
+	<a href="http://www.ndoherty.biz/tag/coda-slider/" class="footer">
+		coda-slider
+	</a>
+	<br/>
+</p>
+
+</div><!-- #slider1 -->
 </div><!-- .slider-wrap -->
 
 </body>
