@@ -25,7 +25,7 @@ $uri = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
   <script type="text/javascript"
           src="javascript/coda-slider.1.1.1.pack.js"></script>
 
-  <link rel="stylesheet" type="text/css" href="style.css"/>
+  <link rel="stylesheet" type="text/css" href="css/default.css"/>
   
   <!-- Initialize each slider on the page. Each slider must have a unique id -->
   <script type="text/javascript">
