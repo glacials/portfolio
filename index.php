@@ -40,9 +40,9 @@ $uri = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
 
 <noscript>
   <p>
-    <b>Woops!</b> Looks like you've got JavaScript turned off. Sorry, but I
-    haven't had the chance to make a non-JavaScript version of it yet, so you'll
-    have to look at the ugly backside for now!
+    <span class="phead">Woops!</span> Looks like you've got JavaScript turned
+    off. Sorry, but I haven't had the chance to make a non-JavaScript version of
+    it yet, so you'll have to look at the ugly backside for now!
   </p>
 </noscript>
 
@@ -142,21 +142,23 @@ $uri = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
 </div><!-- .panelContainer -->
 
 <p class="footer">
-  w3c valid <a href="http://validator.w3.org/check?uri=<?php print $uri; ?>"
+
+  get the
+  <a href="http://github.com/skoh-fley/portfolio/" class="footer">source</a>!
+  <br/>
+
+	w3c valid <a href="http://validator.w3.org/check?uri=<?php print $uri; ?>"
                class="footer">html5</a> /
 	<a href="http://jigsaw.w3.org/css-validator/validator?uri=<?php print $uri; ?>"
 		 class="footer">css</a>
 	<br/>
 
-  &copy; 2008 - <?php print date("Y"); ?> ben carlsson /
-  <a href="http://github.com/skoh-fley/portfolio/" class="footer">source</a>
-  <br/>
-
-	props to niall doherty's
+ props to niall doherty's
 	<a href="http://www.ndoherty.biz/tag/coda-slider/" class="footer">
 		coda-slider
 	</a>
 	<br/>
+
 </p>
 
 </div><!-- #slider1 -->
