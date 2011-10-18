@@ -62,16 +62,15 @@ $uri = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
       <p>
         <span class="phead">Hello.</span> My name is Ben Carlsson. I'm
         <?php print $age; ?> years old and I'm currently a student at
-        <a href="http://www.csuchico.edu/">
-          California State University, Chico
-        </a>. I'm majoring in Computer Science, and I'm a gamer in my free time.
+        <a href="http://www.csuchico.edu/">California State University, Chico</a>.
+        I'm majoring in Computer Science, and I'm a gamer in my free time.
         I dislike not only long walks and beaches, but also situations in which
         the former takes place on the latter.
       </p>
       <p>
         <b>Things I'm awesome at</b> include fixing your computer problems and
         correcting your written English, which, I admit, is sometimes more
-        obession than skill.
+        obsession than skill.
       </p>
       <p>
         <b>Things I'm pretty good at</b> include PHP, C++, HTML, CSS, SQL, and
