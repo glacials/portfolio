@@ -73,11 +73,11 @@ $uri = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
         obsession than skill.
       </p>
       <p>
-        <b>Things I'm pretty good at</b> include PHP, C++, HTML, CSS, SQL, and
+        <b>Things I'm pretty good at</b> include PHP, Java, C++, HTML/CSS, SQL, and
         leaving an abundance of soda cans on my desk.
       </p>
       <p>
-        <b>Things I'm okay at</b> include Java, cosmetic website design, and
+        <b>Things I'm okay at</b> include cosmetic website design, and
         coming up with lists of things I'm okay at.
       </p>
     </div>
@@ -98,18 +98,14 @@ $uri = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
         <img src="images/kure.png" alt="kure" style="padding-right: 8px;"/>
         <span class="projectsub">
           flat-file php blogging engine /
-          <a href="http://findthekure.net/" class="projectsub">website</a>
+          <a href="http://skoh-fley.github.com/kure/" class="projectsub">website</a>
         </span><br />
-        <span class="project">
-          Kure is my PHP brainchild. I started it as a fantasy project in 2004.
-          I worked on it consistently for a week or two and, for one reason or
-          another, stopped after that.
-        </span>
       </p>
       <p class="project">
-        In Fall of 2006, I discovered some misplaced backups and decided to
-        finish it off after realizing how much work I had put into it and how
-        close it was to completion.
+        Kure is my PHP brainchild. I started it in 2004 (I was 14). It's a real project,
+        but it's also kind of my sandbox. Whenever I learn a new trick, I go and update
+        Kure to take advantage of it. It's been like that for years, since before I even
+        knew what a function was (remember, I was 14). Now, it's a bit more powerhouse than that.
       </p>
       <p class="project">
         Kure is a free, open-source blogging engine written in PHP that runs on
