@@ -42,7 +42,7 @@ $uri = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
   <p>
     <span class="phead">Woops!</span> Looks like you've got JavaScript turned
     off. Sorry, but I haven't had the chance to make a non-JavaScript version of
-    it yet, so you'll have to look at the ugly backside for now!
+    my site yet, so you'll have to look at the ugly backside for now!
   </p>
 </noscript>
 
