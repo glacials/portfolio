@@ -49,7 +49,7 @@ $uri = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
 <div class="panel">
 	<div class="wrapper">
 		<img src="images/bencarlsson.png" alt="ben carlsson"/>
-		<img src="images/about.png" alt="about"/><br />
+		<img src="images/about.png" alt="about"/><br/>
 		<span class="cross-notlink">about</span>
 		<a href="#2" class="cross-link">portfolio</a>
 		<a href="#3" class="cross-link">contact</a>
@@ -83,7 +83,7 @@ $uri = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
 <div class="panel">
 	<div class="wrapper">
 		<img src="images/bencarlsson.png" alt="ben carlsson"/>
-		<img src="images/portfolio.png" alt="portfolio"/><br />
+		<img src="images/portfolio.png" alt="portfolio"/><br/>
 		<a href="#1" class="cross-link">about</a>
 		<span class="cross-notlink">portfolio</span>
 		<a href="#3" class="cross-link">contact</a>
@@ -95,7 +95,7 @@ $uri = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
 				<span class="projectsub">
 					flat-file php blogging engine /
 					<a href="http://skoh-fley.github.com/kure/" class="projectsub">website</a>
-				</span><br />
+				</span><br/>
 			</p>
 			<p class="project">
 				Kure is my PHP brainchild. I started it in 2004 (I was 14). It's a real
@@ -109,6 +109,25 @@ $uri = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
 				a very simple flat-file database system. It is extendable via plugins
 				and skinnable via templates.
 			</p>
+			<p class="projectlogo">
+				<span id="project-cslug" style="padding-right: 8px;">cslug</span>
+				<span class="projectsub">
+					chico state linux user group /
+					<a href="http://www.ecst.csuchico.edu/cslug" class="projectsub">website</a>
+				</span><br/>
+			</p>
+			<p class="project">
+				CSLUG (Chico State Linux User Group) is the computer science department's
+				Linux club at California State University, Chico. The current version of
+				the site was a collaborative effort I led while I was the club webmaster.
+			</p>
+			<p class="project">
+				The site uses git to auto-pull recent commits from GitHub, which allows
+				us the freedom of letting members insert themselves into the memberlist,
+				and gives our officers the ability to add meeting notes or news
+				announcements with ease. Both of these actions involve codeless file
+				creation and no editing of existing files.
+			</p>
 		</div>
 	</div>
 </div>
@@ -116,7 +135,7 @@ $uri = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
 <div class="panel">
 	<div class="wrapper">
 		<img src="images/bencarlsson.png" alt="ben carlsson"/>
-		<img src="images/contact.png" alt="contact"/><br />
+		<img src="images/contact.png" alt="contact"/><br/>
 		<a href="#1" class="cross-link">about</a>
 		<a href="#2" class="cross-link">portfolio</a>
 		<span class="cross-notlink">contact</span>
