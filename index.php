@@ -56,7 +56,7 @@ $uri = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
       </p>
       <p>
         <b>Things I'm awesome at</b> include fixing your computer problems and
-        correcting your written English, which, I admit, is sometimes more
+        correcting your written English, which I admit is sometimes more
         obsession than skill.
       </p>
       <p>
@@ -64,7 +64,7 @@ $uri = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
         and leaving an abundance of soda cans on my desk.
       </p>
       <p>
-        <b>Things I'm okay at</b> include cosmetic website design, and coming
+        <b>Things I'm okay at</b> include cosmetic website design and coming
         up with lists of things I'm okay at.
       </p>
     </div>
