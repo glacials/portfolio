@@ -103,7 +103,7 @@ $uri = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
       <p class="projectlogo">
         <span id="project-cslug" style="padding-right: 8px;">cslug</span>
         <span class="projectsub">
-          chico state linux user group / <a href="http://www.ecst.csuchico.edu/cslug" class="projectsub" target="_blank">website</a>
+          chico state linux user group / <a href="http://www.ecst.csuchico.edu/cslug/" class="projectsub" target="_blank">website</a>
         </span><br/>
       </p>
       <p class="project">
