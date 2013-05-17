@@ -55,7 +55,7 @@ $uri = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
         the former takes place on the latter.
       </p>
       <p>
-        <b>Things I'm very experienced in</b> include PHP, HTML/CSS, Linux, and
+        <b>Things I'm very experienced at</b> include PHP, HTML/CSS, Linux, and
         correcting your written English (but I admit that last one is sometimes
         more obsession than skill).
       </p>
